@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+  
+  
+  }
+  
+  .pricing-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    
+  }
+  
+  .pricing-plan{
+    background-color: aqua;
+    text-align: center;
+    margin-top: 250px;
+  }
+  
+  button{
+    background-color: orangered;
+    color: white;
+  }
